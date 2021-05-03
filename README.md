@@ -41,11 +41,13 @@ Some of kses current features are:
 
 ### Version PHP
 
-| Version PHP                 | Soosyze Kses     1.x |
-|-----------------------------|----------------------|
-| <= 5.4                      | ✗ Non supporté       |
-| 5.5 / 5.6                   | ✓ Supporté           |
-| 7.0 / 7.1 / 7.2 / 7.3 / 7.4 | ✓ Supporté           |
+| Version PHP     | Soosyze Kses 1.x | Soosyze Kses 2.x |
+|-----------------|------------------|------------------|
+| <= 5.4          | ✗ Unsupported    | ✗ Unsupported    |
+| 5.5 / 5.6       | ✓ Supported      | ✗ Unsupported    |
+| 7.0 / 7.1       | ✓ Supported      | ✗ Unsupported    |
+| 7.2 / 7.3 / 7.4 | ✓ Supported      | ✓ Supported      |
+| 8.0             | ✗ Unsupported    | ✓ Supported      |
 
 ## Installation
 

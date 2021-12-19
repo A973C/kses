@@ -1,5 +1,6 @@
 # Repertory
 /.scannerwork
+/bin/
 /build/
 /nbproject/
 /vendor/
@@ -7,5 +8,5 @@
 # Files
 /*.lock
 /*.phar
-/.php_cs.cache
+/.php-cs-fixer.cache
 /.phpunit.result.cache
